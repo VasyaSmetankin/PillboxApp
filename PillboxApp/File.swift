@@ -15,7 +15,6 @@ struct PillTimerConfiguration {
     
     
     static func drinkYourPillsNow() -> [PillTimerConfiguration] {
-        [ PillTimerConfiguration(pillName: "xanax", pillDosage: "25", description: "initial")
-        ]
+        []
     }
 }
